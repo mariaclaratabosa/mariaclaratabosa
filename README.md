@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Clara
 
 - 🤸🏻‍♀️ Hoje estou em transição de carreira
-- 💻 Estudo desenvolvimento full-stack e Java
+- 💻 Estudo Desenvolvimento Web Full Stack
 - 😀 Pronomes: ela/dela
 
 <div align="center">

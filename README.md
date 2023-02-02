@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Maria Clara 👋
 - Estou cursando Desenvolvimento FullStack na Kenzie Academy Brasil
-- Você pode me encontrar no <a href="https://www.linkedin.com/in/maria-clara-tabosa" target="_blank"> Linkedin</a>
 - Postarei todos os projetos que desenvolvi no meu bootcamp de programação fullstack, você pode acessá-los aqui: <a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> Módulo 1 </a> - <a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> Módulo 2 </a>
 
 <div align="center">

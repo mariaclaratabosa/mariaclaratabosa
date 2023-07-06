@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Maria Clara 👋
-💻 Estou cursando Desenvolvimento Full Stack na Kenzie Academy Brasil <br>
+💻 Sou Desenvolvedora Front End e atualmente estudo Desenvolvimento Back End na Kenzie Academy Brasil <br>
 ✨ Postarei todos os projetos que desenvolvi no meu bootcamp de programação Full Stack, você pode acessá-los aqui: <a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> Módulo 1 </a> - <a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> Módulo 2 </a> - <a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> Módulo 3 </a> - <a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> Módulo 4 </a>
 
 <div align="center">

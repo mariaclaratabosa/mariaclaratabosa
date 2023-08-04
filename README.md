@@ -1,5 +1,6 @@
-### Olá! Eu sou a Maria Clara 👋
-💻 Sou Desenvolvedora Front End e atualmente estudo Desenvolvimento Back End na Kenzie Academy Brasil <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4d94&height=120&section=header"/><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1a75&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Maria+Clara;Desenvolvedora+Full+Stack+:%29)](https://git.io/typing-svg)
+
 ✨ Postarei todos os projetos que desenvolvi no meu bootcamp de programação Full Stack, você pode acessá-los aqui: <a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> Módulo 1 </a> - <a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> Módulo 2 </a> - <a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> Módulo 3 </a> - <a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> Módulo 4 </a> - <a href="https://github.com/mariaclaratabosa/M5-PROJETOS"> Módulo 5 </a>
 
 <div align="center">

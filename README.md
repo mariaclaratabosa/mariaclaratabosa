@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4d94&height=120&section=header"/><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1a75&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Maria+Clara;Desenvolvedora+Full+Stack+:%29)](https://git.io/typing-svg)
 
-✨ Postarei todos os projetos que desenvolvi no meu bootcamp de programação Full Stack, você pode acessá-los aqui: <a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> Módulo 1 </a> - <a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> Módulo 2 </a> - <a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> Módulo 3 </a> - <a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> Módulo 4 </a> - <a href="https://github.com/mariaclaratabosa/M5-PROJETOS"> Módulo 5 </a>
-
-<div align="center">
-  <a href="https://github.com/mariaclaratabosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaclaratabosa&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaratabosa&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+✨ Bem vindos ao meu perfil! <br/>
+👩‍💻 Postarei todos os projetos que desenvolvi no meu bootcamp de programação Full Stack, você pode acessá-los aqui: <br/>
+<a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> Módulo 1 </a> 
+<a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> Módulo 2 </a> 
+<a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> Módulo 3 </a> <br/>
+<a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> Módulo 4 </a> 
+<a href="https://github.com/mariaclaratabosa/M5-PROJETOS"> Módulo 5 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div style="display: inline_block"><br>

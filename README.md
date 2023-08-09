@@ -36,3 +36,7 @@
  <a href = "mailto:mariaclaratabosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mariaclaratabosa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaclaratabosa&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaratabosa&layout=donut&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)

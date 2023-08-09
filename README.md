@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 ✨ Bem vindos ao meu perfil! <br/>
 👩‍💻 Postarei todos os projetos que desenvolvi no meu bootcamp de programação Full Stack, você pode acessá-los aqui: <br/>
-<a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593824/Teal_With_Play_Button_Sports_Logo-removebg-preview_xj4ysh.png" width="200rem"> </a> 
-<a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593948/Teal_With_Play_Button_Sports_Logo__1_-removebg-preview_wyynmo.png" width="200rem"> </a> 
-<a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593989/Teal_With_Play_Button_Sports_Logo__2_-removebg-preview_r1fnlu.png" width="200rem"> </a> <br/>
-<a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691594037/Teal_With_Play_Button_Sports_Logo__3_-removebg-preview_ibcv1y.png" width="200rem"> </a> 
-<a href="https://github.com/mariaclaratabosa/M5-PROJETOS"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691594119/Teal_With_Play_Button_Sports_Logo__4_-removebg-preview_y7oyec.png" width="200rem">  </a>
+<a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593824/Teal_With_Play_Button_Sports_Logo-removebg-preview_xj4ysh.png" width="150rem"> </a> 
+<a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593948/Teal_With_Play_Button_Sports_Logo__1_-removebg-preview_wyynmo.png" width="150rem"> </a> 
+<a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593989/Teal_With_Play_Button_Sports_Logo__2_-removebg-preview_r1fnlu.png" width="150rem"> </a> <br/>
+<a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691594037/Teal_With_Play_Button_Sports_Logo__3_-removebg-preview_ibcv1y.png" width="150rem"> </a> 
+<a href="https://github.com/mariaclaratabosa/M5-PROJETOS"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691594119/Teal_With_Play_Button_Sports_Logo__4_-removebg-preview_y7oyec.png" width="150rem">  </a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div style="display: inline_block"><br>

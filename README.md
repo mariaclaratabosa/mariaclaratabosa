@@ -11,7 +11,7 @@
 <a href="https://github.com/mariaclaratabosa/M4-PROJETOS"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691594037/Teal_With_Play_Button_Sports_Logo__3_-removebg-preview_ibcv1y.png" width="150rem"> </a> 
 <a href="https://github.com/mariaclaratabosa/M5-PROJETOS"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691594119/Teal_With_Play_Button_Sports_Logo__4_-removebg-preview_y7oyec.png" width="150rem">  </a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"><b> Skills</b>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

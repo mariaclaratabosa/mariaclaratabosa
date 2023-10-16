@@ -3,8 +3,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 ✨ Bem vindos ao meu perfil! <br/>
-📚 Sou estudante de Ciência da Computação e atualmente faço um bootcamp de Programação Full Stack na Kenzie Academy Brasil <br/>
-👩‍💻 Postarei todos os projetos que desenvolvi no meu bootcamp de Programação Full Stack, você pode acessá-los aqui: <br/>
+📚 Sou estudante de Ciência da Computação e concluí o bootcamp de Programação Full Stack na Kenzie Academy Brasil <br/>
+👩‍💻 Você pode verificar os projetos que desenvolvi ao longo dos módulos do bootcamp de Programação Full Stack aqui: <br/>
 <a href="https://github.com/mariaclaratabosa/M1-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593824/Teal_With_Play_Button_Sports_Logo-removebg-preview_xj4ysh.png" width="150rem"> </a> 
 <a href="https://github.com/mariaclaratabosa/M2-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593948/Teal_With_Play_Button_Sports_Logo__1_-removebg-preview_wyynmo.png" width="150rem"> </a> 
 <a href="https://github.com/mariaclaratabosa/M3-PROJETOS" target="_blank"> <img src="https://res.cloudinary.com/dr4yskhwv/image/upload/v1691593989/Teal_With_Play_Button_Sports_Logo__2_-removebg-preview_r1fnlu.png" width="150rem"> </a> <br/>
